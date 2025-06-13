@@ -7,8 +7,7 @@ criaCartao(
 criaCartao(
     'Qual a Durabilidade?',
     'Quanto tempo dura um alongamento de unhas feito por uma boa nail designer?',
-    'Geralmente, um alongamento bem feito pode durar de duas a três semanas antes de precisar de manutenção, dependendo do crescimento da sua unha e dos seus cuidados.
-'
+    'Geralmente, um alongamento bem feito pode durar de duas a três semanas antes de precisar de manutenção, dependendo do crescimento da sua unha e dos seus cuidados.'
 )
 
 criaCartao(
