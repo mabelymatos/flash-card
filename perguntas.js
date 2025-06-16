@@ -1,6 +1,6 @@
 criaCartao(
     'O Que Faz Esse Profissional?',
-    'O que um nail designer realmente faz?',
+    'O que uma nail designer realmente faz?',
     'Uma nail designer é uma artista que cria e aplica designs estéticos e artísticos nas unhas, usando diversas técnicas e materiais para deixá-las bonitas e personalizadas.'
 )
 
