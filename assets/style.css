@@ -1,6 +1,6 @@
 :root { 
     --text-color: #000000;
-    --card-front-color: rgba(206, 156, 192, 0.5); /* transparência aplicada */
+    --card-front-color: rgba(206, 156, 192, 0.5);
     --card-back-color: #000000;
 }
 
@@ -28,7 +28,7 @@ body {
 }
 
 .cartao__conteudo {
-    background-color: var(--card-front-color); /* já com transparência */
+    background-color: var(--card-front-color); 
     text-align: center;
     height: 100%;
     transform-style: preserve-3d;
@@ -48,7 +48,7 @@ body {
     border-radius: 0.6rem;
     font-size: 1vw;
     backface-visibility: hidden;
-    background-color: rgba(255, 255, 255, 0.4); /* fundo levemente translúcido */
+    background-color: rgba(255, 255, 255, 0.4); 
 }
 
 .cartao__conteudo p {
@@ -82,7 +82,7 @@ body {
 
 .cartao__conteudo__resposta {
     transform: rotateY(180deg);
-    background-color: rgba(0, 244, 191, 0.2); /* já era transparente */
+    background-color: rgba(0, 244, 191, 0.2);
     border: 4px solid var(--card-back-color);
     border-radius: 1rem;
 }
